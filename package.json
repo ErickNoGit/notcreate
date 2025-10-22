@@ -1,0 +1,15 @@
+{
+  "name": "notcreate",
+  "version": "1.0.0",
+  "description": "App to write down creative ideas you never thought of",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ./src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Érick M. A. Silva & Davy O. Barros",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^38.3.0"
+  }
+}
